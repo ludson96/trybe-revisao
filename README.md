@@ -16,82 +16,82 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ##### Bloco 2: Git & GitHub
 
-- [X] 2.1: _O que é e para que serve?_
-- [X] 2.2: _Entendendo os comandos_
-- [X] 2.3: _Internet - Entendendo como ela funciona_
+- [ ] 2.1: _O que é e para que serve?_
+- [ ] 2.2: _Entendendo os comandos_
+- [ ] 2.3: _Internet - Entendendo como ela funciona_
 
 ##### Bloco 3: Introdução- HTML & CSS
 
-- [x] 3.1: _HTML & CSS - Estruturas de página_
-- [x] 3.2: _HTML & CSS - Primeiros passos em CSS_
-- [x] 3.3: _HTML & CSS - Seletores e posicionamento_
-- [x] 3.4: _HTML Semântico_
-- [x] 3.5: _Projeto - HTML & CSS_
+- [ ] 3.1: _HTML & CSS - Estruturas de página_
+- [ ] 3.2: _HTML & CSS - Primeiros passos em CSS_
+- [ ] 3.3: _HTML & CSS - Seletores e posicionamento_
+- [ ] 3.4: _HTML Semântico_
+- [ ] 3.5: _Projeto - HTML & CSS_
 
 ##### Bloco 4: Introdução - JavaScript
 
-- [x] 4.1: _JavaScript - Primeiros passos_
-- [x] 4.2: _JavaScript - Array e loop For_
-- [x] 4.3: _JavaScript - Lógica de Programação e Algoritmos_
-- [x] 4.4: _JavaScript - Objetos e funções_
-- [x] 4.5: _Projeto - Playground Functions_
+- [ ] 4.1: _JavaScript - Primeiros passos_
+- [ ] 4.2: _JavaScript - Array e loop For_
+- [ ] 4.3: _JavaScript - Lógica de Programação e Algoritmos_
+- [ ] 4.4: _JavaScript - Objetos e funções_
+- [ ] 4.5: _Projeto - Playground Functions_
 
 ##### Bloco 5: Introdução - JavaScript - Projetos
 
-- [x] 5.1: _JavaScript - DOM e seletores_
-- [x] 5.2: _JavaScript - Trabalhando com elementos_
-- [x] 5.3: _JavaScript - Eventos_
-- [x] 5.4: _JavaScript - Web Storage_
-- [X] 5.5: _Projeto - Meme Generator_
-- [X] 5.6: _Projeto - Arte com Pixels_
-- [X] 5.7: _Projeto - Lista de tarefas_
-- [X] 5.7: _Projeto - Adivinhe a Cor_
-- [X] 5.7: _Projeto - Carta Misteriosa_
+- [ ] 5.1: _JavaScript - DOM e seletores_
+- [ ] 5.2: _JavaScript - Trabalhando com elementos_
+- [ ] 5.3: _JavaScript - Eventos_
+- [ ] 5.4: _JavaScript - Web Storage_
+- [ ] 5.5: _Projeto - Meme Generator_
+- [ ] 5.6: _Projeto - Arte com Pixels_
+- [ ] 5.7: _Projeto - Lista de tarefas_
+- [ ] 5.7: _Projeto - Adivinhe a Cor_
+- [ ] 5.7: _Projeto - Carta Misteriosa_
 
 ##### Bloco 6: HTML & CSS avançado
 
-- [X] 6.1: _HTML & CSS - Forms_
-- [X] 6.2: _Bibliotecas JavaScript e Frameworks CSS_
-- [X] 6.3: _CSS Flexbox - Part 1_
-- [X] 6.4: _CSS Flexbox - Part 2_
-- [X] 6.5: _CSS Responsivo - Mobile First_
-- [X] 6.6: _Projeto - Trybewarts_
+- [ ] 6.1: _HTML & CSS - Forms_
+- [ ] 6.2: _Bibliotecas JavaScript e Frameworks CSS_
+- [ ] 6.3: _CSS Flexbox - Part 1_
+- [ ] 6.4: _CSS Flexbox - Part 2_
+- [ ] 6.5: _CSS Responsivo - Mobile First_
+- [ ] 6.6: _Projeto - Trybewarts_
 
 ##### Bloco 7: JavaScript ES6 & Testes Unitários
 
-- [X] 7.1: _JavaScript ES6 - let, const, arrow functions e template literals_
-- [X] 7.2: _JavaScript ES6 - Objects_
-- [X] 7.3: _Testes unitários em JavaScript_
-- [X] 7.4: _Projeto - JavaScript Testes Unitários_
+- [ ] 7.1: _JavaScript ES6 - let, const, arrow functions e template literals_
+- [ ] 7.2: _JavaScript ES6 - Objects_
+- [ ] 7.3: _Testes unitários em JavaScript_
+- [ ] 7.4: _Projeto - JavaScript Testes Unitários_
 
 ##### Bloco 8: JavaScript ES6
 
-- [X] 8.1: _JavaScript ES6 - Higher Order Functions - Introdução a Higher Order Functions_
-- [X] 8.2: _JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort_
-- [X] 8.3: _JavaScript ES6 - Higher Order Functions - map e filter_
-- [X] 8.4: _JavaScript ES6 - Higher Order Functions - reduce_
-- [X] 8.5: _JavaScript ES6 - spread operator, rest parameter, destructuring e mais_
-- [X] 8.6: _Projeto - Zoo functions_
+- [ ] 8.1: _JavaScript ES6 - Higher Order Functions - Introdução a Higher Order Functions_
+- [ ] 8.2: _JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort_
+- [ ] 8.3: _JavaScript ES6 - Higher Order Functions - map e filter_
+- [ ] 8.4: _JavaScript ES6 - Higher Order Functions - reduce_
+- [ ] 8.5: _JavaScript ES6 - spread operator, rest parameter, destructuring e mais_
+- [ ] 8.6: _Projeto - Zoo functions_
 
 ## Desenvolvimento Front-end :hourglass_flowing_sand:
 ##### Bloco 9: JavaScript e Testes Assíncronos
 
-- [X] 9.1: _JavaScript Assíncrono e Callbacks_
-- [X] 9.2: _JavaScript Assíncrono - Fetch API e async/await_
-- [X] 9.3: _Jest - Testes Assíncronos_
-- [X] 9.4: _Projeto - Carrinho de Compras_
+- [ ] 9.1: _JavaScript Assíncrono e Callbacks_
+- [ ] 9.2: _JavaScript Assíncrono - Fetch API e async/await_
+- [ ] 9.3: _Jest - Testes Assíncronos_
+- [ ] 9.4: _Projeto - Carrinho de Compras_
 
 
 ##### Bloco 10: Introdução à React
 
-- [X] 10.1: _'Hello, world!' no React!_
-- [X] 10.2: _Componentes React_
-- [X] 10.3: _Projeto - Sistema Solar_
+- [ ] 10.1: _'Hello, world!' no React!_
+- [ ] 10.2: _Componentes React_
+- [ ] 10.3: _Projeto - Sistema Solar_
 
 ##### Bloco 11: Componentes com Estado, Eventos e Formulários com React
 
-- [X] 11.1: _Componentes com estado e eventos_
-- [X] 11.2: _Formulários no React_
+- [ ] 11.1: _Componentes com estado e eventos_
+- [ ] 11.2: _Formulários no React_
 - [ ] 11.3: _Projeto - Tryunfo_
 
 ##### Bloco 12: React
